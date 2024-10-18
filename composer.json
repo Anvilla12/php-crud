@@ -1,0 +1,17 @@
+{
+    "name": "anavila12/php-crud",
+    "description": "A simple PHP(OOP) CRUD using MySQL",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anavila12\\PhpCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anavila",
+            "email": "anavila.developer@gmail.com"
+        }
+    ],
+    "require": {}
+}
